@@ -1,3 +1,10 @@
 <resources>
+
     <string name="app_name">AndroidCourse</string>
+
+    <string name="text_hello">Hello world!</string>
+    <string name="text_hello2">Hello world! 2</string>
+    <string name="text_status">How are you?</string>
+    <string name="action_change">Change text</string>
+
 </resources>
