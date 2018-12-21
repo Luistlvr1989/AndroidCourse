@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">@color/blue</color>
+    <color name="colorPrimaryDark">@color/blueDark</color>
+    <color name="colorAccent">@color/blueGray</color>
+
+    <color name="red">#F44336</color>
+    <color name="redLight">#E57373</color>
+    <color name="redDark">#B71C1C</color>
+
+    <color name="indigo">#3F51B5</color>
+    <color name="indigoLight">#9FA8DA</color>
+    <color name="indigoDark">#303F9F</color>
+
+    <color name="blue">#2196F3</color>
+    <color name="blueLight">#90CAF9</color>
+    <color name="blueDark">#1976D2</color>
+
+    <color name="teal">#009688</color>
+    <color name="tealLight">#80CBC4</color>
+    <color name="tealDark">#00796B</color>
+
+    <color name="green">#4CAF50</color>
+    <color name="greenLight">#A5D6A7</color>
+    <color name="greenDark">#388E3C</color>
+
+    <color name="orange">#CA6C00</color>
+    <color name="orangeLight">#FF9D65</color>
+    <color name="orangeDark">#CA4A00</color>
+
+    <color name="grey">#BEBEBE</color>
+    <color name="greyLight">#343434</color>
+    <color name="greyDark">#282828</color>
+
+    <color name="blueGray">#607D8B</color>
+    <color name="blueGrayLight">#B0BEC5</color>
+    <color name="blueGrayDark">#455A64</color>
+
+    <color name="yellow">#FFEB3B</color>
+    <color name="yellowLight">#FFF176</color>
+    <color name="yellowDark">#FBC02D</color>
 </resources>
